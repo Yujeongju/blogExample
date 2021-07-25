@@ -4,3 +4,7 @@
 ## 2021-07-25
 Bottom Navigation View  
 https://jeong9216.tistory.com/3
+
+## 2021-07-26
+그라데이션 / gradient  
+https://jeong9216.tistory.com/4
